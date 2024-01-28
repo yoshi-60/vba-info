@@ -1,0 +1,13 @@
+= VBA Information
+
+Memorandum for myself
+
+== References
+
+* link:https://learn.microsoft.com/ja-jp/office/vba/api/overview/word[Word VBA リファレンス]
+* link:https://tonari-it.com/word-vba-manual/[【保存版】実務でWord VBAを使いこなすための初心者向け完全マニュアル]
+* link:https://magazine.techacademy.jp/magazine/9892[【ワード初心者必見！】超便利なWordのマクロとは 2016/7/25]
+* link:https://kirinote.com/category/wordvba/[WordVBAの基本・応用のコーディングを掲載]
+* link:https://www.relief.jp/Word-VBA/[インストラクターのネタ帳 ワードマクロ・Word VBAの使い方]
+* link:https://office-hack.com/word/word-vba/[Office Hack WordのVBAでできること（操作）]
+* link:https://www.wordvbalab.com/page-1337/[みんなのワードマクロ Wordマクロ一覧（用途別）]
