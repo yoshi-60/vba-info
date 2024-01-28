@@ -1,2 +1,0 @@
-# vba-info
-VBA Hints
